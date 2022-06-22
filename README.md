@@ -4,10 +4,14 @@
 
 
 
-## Table of Contents
+It’s nice to just use our phones when we transact online or even in stores. Don’t you dream of just pressing your phone and, voila, you’ve sent money to your family or friend? Well, that would be nice. How about requesting money with just a few taps on your phone? Oh, what a life!
 
-| Code | Project | Preview | No. of Screens |
-| ------ | ------ | ------ | ------ | ------ |
-| LCRN09 | [Digital Wallet App] | <img src="https://cdn.dribbble.com/users/4208985/screenshots/9730914/media/5eb70ec992c7d1e440e34c76266ea767.png?compress=1&resize=1200x900" width="120" />  | 3 |
+Features
 
-
+Pay in-stores with your Android device
+Pay in-apps and on the web
+Multiple-layered advanced security
+Request and send money
+Loyalty programs and rewards
+Accepted in over a million stores
+Available in 24*7
