@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576934698135",
+    "project_id": "digitalwallie",
+    "storage_bucket": "digitalwallie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576934698135:android:60c31413c4561929f91dd2",
+        "android_client_info": {
+          "package_name": "com.digitalwalletapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576934698135-u9tph52sbo3dnig266fe0odvmc0uihsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGdCUw19uyCBsT7KqOzE4Ork-QWjxU50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576934698135-u9tph52sbo3dnig266fe0odvmc0uihsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
